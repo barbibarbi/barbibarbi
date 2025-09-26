@@ -21,16 +21,6 @@
 
 ## Skills ✨
 
-### Idiomas 🗣️
-
-* Inglés: **Nivel básico**
-
-### Herramientas 🛠️
-
-* Paquete Office: **Nivel básico**
-
-### Técnicos (En constante aprendizaje) 💡
-
 * **C**
 * **C++**
 * **SQL**
