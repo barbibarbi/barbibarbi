@@ -6,13 +6,19 @@
 
 ## Mis otros perfiles 🌐
 
-* **[LinkedIn]** ([Tu link de LinkedIn])
+<a href="https://www.linkedin.com/in/barbaralipchis/">
+  <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Logos/Linkedin.png?raw=true" alt="linkedin" width="50">
+</a>
 
 ## Proyectos 💻
 
 ### Proyectos universitarios
 
-[![Captura de pantalla del Juego de la Vida de Conway](assets/conway_game.png)](https://github.com/tu-usuario/nombre-del-repo-conway)
+<a href="https://github.com/barbibarbi/El-Juego-De-La-Vida-Conway">
+  <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Proyectos/ElJuegoDeLaVidaConway.png?raw=true" alt="Juego de la Vida de Conway" width="300">
+</a>
+
+
 ## Skills ✨
 
 ### Idiomas 🗣️
