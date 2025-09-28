@@ -29,3 +29,4 @@
 * **Javascript**
 * **Java**
 
+  <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Otros/yo.png?raw=true" alt="yo" width="600">
