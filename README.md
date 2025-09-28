@@ -18,8 +18,12 @@
   <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Proyectos/ElJuegoDeLaVidaConway.png?raw=true" alt="Juego de la Vida de Conway" width="300">
 </a>
 
+### Proyectos personales
 
-## Skills ✨
+### Proyectos fuera del codigo
+
+## Skills (Aprendiendo) ✨
+
 
 Programación =
 * **C**
@@ -34,9 +38,9 @@ Desarrollo web =
 Base de datos =
 * **SQL**
 
-Estado = Aprendiendo
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=barbibarbi&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=barbibarbi&layout=compact&theme=dark)
 
-
-  <p align="center">
+<p align="center">
   <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Otros/yo.png?raw=true" alt="yo" width="600">
 </p>
