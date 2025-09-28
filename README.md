@@ -24,45 +24,35 @@
 
 ## Skills (Aprendiendo) ✨
 
+Programación = 
 
-<table width="100%">
-  <tr>
-    <td width="40%" valign="top" style="padding-right: 20px;">
-      **Programación =**
-      <ul>
-        <li>C</li>
-        <li>C++</li>
-        <li>Java</li>
-        </ul>
+* **C** 
 
-  **Desarrollo web =**
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Javascript</li>
-      </ul>
+* **C++** 
 
-   **Base de datos =**
-      <ul>
-        <li>SQL</li>
-      </ul> 
-      <br>
-      [Mi perfil de HackerRank](URL_HACKERRANK)
-    </td>
+* **Java** 
 
-  <td width="60%" valign="top">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbibarbi&layout=compact&theme=dark" alt="Principales Lenguajes" />
-        <br>
-        
-  <img src="https://github-readme-stats.vercel.app/api?username=barbibarbi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true" alt="Estadísticas de GitHub" />
-      </div>
-    </td>
-  </tr>
-</table>
+   
 
----
+Desarrollo web = 
 
+* **HTML** 
+
+* **CSS** 
+
+* **Javascript** 
+
+  
+
+Base de datos = 
+
+* **SQL** 
+
+  
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=barbibarbi&show_icons=true&theme=dark&include_all_commits=true&count_private=true) 
+
+![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=barbibarbi&layout=compact&theme=dark) 
 
 <p align="center">
   <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Otros/yo.png?raw=true" alt="yo" width="600">
