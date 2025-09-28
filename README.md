@@ -21,13 +21,21 @@
 
 ## Skills ✨
 
+Programación =
 * **C**
 * **C++**
-* **SQL**
+* **Java**
+  
+Desarrollo web =
 * **HTML**
 * **CSS**
 * **Javascript**
-* **Java**
+
+Base de datos =
+* **SQL**
+
+Estado = Aprendiendo
+
 
   <p align="center">
   <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Otros/yo.png?raw=true" alt="yo" width="600">
