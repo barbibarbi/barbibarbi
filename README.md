@@ -16,9 +16,7 @@
   <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Proyectos/ElJuegoDeLaVidaConway.png?raw=true" alt="Juego de la Vida de Conway" width="300">
 </a>
 
-### Proyectos personales
 
-### Proyectos fuera del codigo
 
 ## Skills (Aprendiendo) ✨
 
