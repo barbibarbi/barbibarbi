@@ -26,8 +26,6 @@ Programación =
 
 * **C** 
 
-* **C++** 
-
 * **Java** 
 
    
