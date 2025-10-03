@@ -5,7 +5,7 @@
 🎨Además de programar, tengo una gran pasión por el **dibujo**. Mi formación en talleres de cómic, pintura y mural me ayudó a desarrollar la **creatividad**, que también aplico en la programación. Dibujar es mi escape y mi lugar seguro cuando lo necesito.
 
 <a href="https://www.linkedin.com/in/barbaralipchis/">
-  <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Logos/Linkedin.png?raw=true" alt="linkedin" width="50">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
 </a>
 
 ## Proyectos 💻
