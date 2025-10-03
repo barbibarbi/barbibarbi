@@ -18,7 +18,7 @@
 
 
 
-## Skills (Aprendiendo) ✨
+## Aprendiendo ✨
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -36,11 +36,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="sql logo"  />
 </div>
 
+
+<div align="center">
+
   
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=barbibarbi&show_icons=true&theme=dark&include_all_commits=true&count_private=true) 
-
-![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=barbibarbi&layout=compact&theme=dark)  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbibarbi&layout=compact&theme=dark"
+         alt="Lenguajes" />
+  
+</div>
+  
 
 <p align="center">
   <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Otros/yo.png?raw=true" alt="yo" width="600">
