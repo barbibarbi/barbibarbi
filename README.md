@@ -22,7 +22,11 @@
   <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Proyectos/ElJuegoDeLaVidaConway.png?raw=true" alt="Juego de la Vida de Conway" width="300">
 </a>
 
+### Proyectos personales
 
+<a href="https://github.com/barbibarbi/Manipulador-imagenes-bmp">
+  <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Proyectos/manipuladorDeImagenesBMP.png?raw=true" alt="Manipulador de imagenes bmp" width="300">
+</a>
 
 ## Aprendiendo ✨
 
