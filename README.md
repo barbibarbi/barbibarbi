@@ -24,7 +24,6 @@
 
 ### Proyectos personales
 
-[PROXIMAMENTE]
 <a href="https://github.com/barbibarbi/Manipulador-imagenes-bmp">
   <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Proyectos/manipuladorDeImagenesBMP.png?raw=true" alt="Manipulador de imagenes bmp" width="300">
 </a>
