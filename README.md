@@ -1,8 +1,6 @@
 # Bienvenido a mi repositorio. 👋
 
-<p align="center">
-  <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Otros/yo.png?raw=true" alt="yo" width="200">
-</p>
+![Estrellas](https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Otros/estrellas.png?raw=true)
 
 📚Soy estudiante de **Ingeniería en Informática de la UNLaM**.
 
@@ -47,6 +45,8 @@
 
 <div align="center">
 
+
+
   <img wight= 10 />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbibarbi&layout=compact&theme=dark"
@@ -54,5 +54,7 @@
   
 </div>
   
-
+<p align="center">
+  <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Otros/yo.png?raw=true" alt="yo" width="200">
+</p>
 
