@@ -6,9 +6,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
 </a>
 
-🎨Además de programar, tengo una gran pasión por el **dibujo**. Mi formación en talleres de cómic, pintura y mural me ayudó a desarrollar la **creatividad**, que también aplico en la programación.
-
-[![Instagram | @itsbunnyglitch](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsbunnyglitch/)
 
 ## Proyectos 💻
 
