@@ -21,7 +21,7 @@
   <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Proyectos/manipuladorDeImagenesBMP.png?raw=true" alt="Manipulador de imagenes bmp" width="300">
 </a>
 
-## Aprendiendo ✨
+## Skills ✨
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
