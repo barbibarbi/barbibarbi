@@ -16,6 +16,7 @@
 </a>
 
 ### Proyectos personales
+![Lenguaje](https://img.shields.io/badge/Lenguaje-000000?style=for-the-badge)![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
 
 <a href="https://github.com/barbibarbi/Manipulador-imagenes-bmp">
   <img src="https://github.com/barbibarbi/barbibarbi/blob/main/Imagenes/Proyectos/manipuladorDeImagenesBMP.png?raw=true" alt="Manipulador de imagenes bmp" width="300">
